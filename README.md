@@ -4,7 +4,7 @@ This is the code repository for the GLMM analysis of metabolomic biomarker disco
 
 ### Folder structure
 
-├── data
+├── data       
 │   ├── Biomarkers Full Data ... wMeta_TIC_plasma_20210520.csv	**data for plasma**      
 │   └── Biomarkers Full Data ... wMeta_TIC_saliva_20210520.csv	**data for saliva**      
 ├── result      
